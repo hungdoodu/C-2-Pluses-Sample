@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1442462146 source:z:\330\examples\calculate pi\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+
